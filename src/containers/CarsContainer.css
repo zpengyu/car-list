@@ -1,0 +1,7 @@
+.car-list {
+    display: block;
+    list-style-type: none;
+    padding: 0;
+    position: relative;
+    width: 100%;
+}

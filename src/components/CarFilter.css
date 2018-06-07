@@ -1,0 +1,11 @@
+.car-filter {
+    padding: 10px 0;
+    display: block;
+    width: 100%;
+}
+
+.car-filter input[type="text"] {
+    width: 100%;
+    font-size: 1rem;
+    font-weight: 600;
+}
